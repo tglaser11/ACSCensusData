@@ -1,0 +1,454 @@
+Geography
+Estimate; HOUSEHOLDS BY TYPE - Total households
+Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families)
+Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families)
+Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - With own children of the householder under 18 years
+Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - With own children of the householder under 18 years
+Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Married-couple family
+Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Married-couple family
+Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Married-couple family - With own children of the householder under 18 years
+Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Married-couple family - With own children of the householder under 18 years
+Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Male householder, no wife present, family
+Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Male householder, no wife present, family
+Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Male householder, no wife present, family - With own children of the householder under 18 years
+Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Male householder, no wife present, family - With own children of the householder under 18 years
+Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Female householder, no husband present, family
+Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Female householder, no husband present, family
+Estimate; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Female householder, no husband present, family - With own children of the householder under 18 years
+Percent; HOUSEHOLDS BY TYPE - Total households - Family households (families) - Female householder, no husband present, family - With own children of the householder under 18 years
+Estimate; HOUSEHOLDS BY TYPE - Total households - Nonfamily households
+Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households
+Estimate; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone
+Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone
+Estimate; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone - 65 years and over
+Percent; HOUSEHOLDS BY TYPE - Total households - Nonfamily households - Householder living alone - 65 years and over
+Estimate; HOUSEHOLDS BY TYPE - Households with one or more people under 18 years
+Percent; HOUSEHOLDS BY TYPE - Households with one or more people under 18 years
+Estimate; HOUSEHOLDS BY TYPE - Households with one or more people 65 years and over
+Percent; HOUSEHOLDS BY TYPE - Households with one or more people 65 years and over
+Estimate; HOUSEHOLDS BY TYPE - Average household size
+Estimate; HOUSEHOLDS BY TYPE - Average family size
+Estimate; RELATIONSHIP - Population in households - Householder
+Percent; RELATIONSHIP - Population in households - Householder
+Estimate; RELATIONSHIP - Population in households - Spouse
+Percent; RELATIONSHIP - Population in households - Spouse
+Estimate; RELATIONSHIP - Population in households - Child
+Percent; RELATIONSHIP - Population in households - Child
+Estimate; RELATIONSHIP - Population in households - Other relatives
+Percent; RELATIONSHIP - Population in households - Other relatives
+Estimate; RELATIONSHIP - Population in households - Nonrelatives
+Percent; RELATIONSHIP - Population in households - Nonrelatives
+Estimate; RELATIONSHIP - Population in households - Nonrelatives - Unmarried partner
+Percent; RELATIONSHIP - Population in households - Nonrelatives - Unmarried partner
+Estimate; MARITAL STATUS - Males 15 years and over - Never married
+Percent; MARITAL STATUS - Males 15 years and over - Never married
+Estimate; MARITAL STATUS - Males 15 years and over - Now married, except separated
+Percent; MARITAL STATUS - Males 15 years and over - Now married, except separated
+Estimate; MARITAL STATUS - Males 15 years and over - Separated
+Percent; MARITAL STATUS - Males 15 years and over - Separated
+Estimate; MARITAL STATUS - Males 15 years and over - Widowed
+Percent; MARITAL STATUS - Males 15 years and over - Widowed
+Estimate; MARITAL STATUS - Males 15 years and over - Divorced
+Percent; MARITAL STATUS - Males 15 years and over - Divorced
+Estimate; MARITAL STATUS - Females 15 years and over - Never married
+Percent; MARITAL STATUS - Females 15 years and over - Never married
+Estimate; MARITAL STATUS - Females 15 years and over - Now married, except separated
+Percent; MARITAL STATUS - Females 15 years and over - Now married, except separated
+Estimate; MARITAL STATUS - Females 15 years and over - Separated
+Percent; MARITAL STATUS - Females 15 years and over - Separated
+Estimate; MARITAL STATUS - Females 15 years and over - Widowed
+Percent; MARITAL STATUS - Females 15 years and over - Widowed
+Estimate; MARITAL STATUS - Females 15 years and over - Divorced
+Percent; MARITAL STATUS - Females 15 years and over - Divorced
+Estimate; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months
+Estimate; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months - Unmarried women (widowed, divorced, and never married)
+Percent; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months - Unmarried women (widowed, divorced, and never married)
+Estimate; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months - Unmarried women (widowed, divorced, and never married) - Per 1,000 unmarried women
+Estimate; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months - Per 1,000 women 15 to 50 years old
+Estimate; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months - Per 1,000 women 15 to 19 years old
+Estimate; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months - Per 1,000 women 20 to 34 years old
+Estimate; FERTILITY - Number of women 15 to 50 years old who had a birth in the past 12 months - Per 1,000 women 35 to 50 years old
+Estimate; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years
+Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school
+Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool
+Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool
+Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten
+Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten
+Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)
+Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)
+Estimate; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school
+Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school
+Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than 9th grade
+Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than 9th grade
+Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - 9th to 12th grade, no diploma
+Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - 9th to 12th grade, no diploma
+Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, no degree
+Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, no degree
+Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Associate's degree
+Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Associate's degree
+Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree
+Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree
+Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Graduate or professional degree
+Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Graduate or professional degree
+Percent; EDUCATIONAL ATTAINMENT - Percent high school graduate or higher
+Percent; EDUCATIONAL ATTAINMENT - Percent bachelor's degree or higher
+Estimate; VETERAN STATUS - Civilian population 18 years and over - Civilian veterans
+Percent; VETERAN STATUS - Civilian population 18 years and over - Civilian veterans
+Estimate; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population - With a disability
+Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Total Civilian Noninstitutionalized Population - With a disability
+Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over
+Percent; RESIDENCE 1 YEAR AGO - Population 1 year and over - Same house
+Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S.
+Percent; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S.
+Percent; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Same county
+Percent; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county
+Percent; PLACE OF BIRTH - Total population - Native - Born in United States
+Percent; PLACE OF BIRTH - Total population - Native - Born in United States - State of residence
+Estimate; U.S. CITIZENSHIP STATUS - Foreign-born population
+Percent; U.S. CITIZENSHIP STATUS - Foreign-born population
+Estimate; U.S. CITIZENSHIP STATUS - Foreign-born population - Naturalized U.S. citizen
+Estimate; U.S. CITIZENSHIP STATUS - Foreign-born population - Not a U.S. citizen
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea
+Percent; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Europe
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Asia
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Africa
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Oceania
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Latin America
+Estimate; WORLD REGION OF BIRTH OF FOREIGN BORN - Foreign-born population, excluding population born at sea - Northern America
+Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - English only
+Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English
+Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish
+Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages
+Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages
+Estimate; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages
+Estimate; ANCESTRY - Total population - American
+Percent; ANCESTRY - Total population - American
+Estimate; ANCESTRY - Total population - Arab
+Percent; ANCESTRY - Total population - Arab
+Estimate; ANCESTRY - Total population - Czech
+Percent; ANCESTRY - Total population - Czech
+Estimate; ANCESTRY - Total population - Danish
+Percent; ANCESTRY - Total population - Danish
+Estimate; ANCESTRY - Total population - Dutch
+Percent; ANCESTRY - Total population - Dutch
+Estimate; ANCESTRY - Total population - English
+Percent; ANCESTRY - Total population - English
+Estimate; ANCESTRY - Total population - French (except Basque)
+Percent; ANCESTRY - Total population - French (except Basque)
+Estimate; ANCESTRY - Total population - French Canadian
+Percent; ANCESTRY - Total population - French Canadian
+Estimate; ANCESTRY - Total population - German
+Percent; ANCESTRY - Total population - German
+Estimate; ANCESTRY - Total population - Greek
+Percent; ANCESTRY - Total population - Greek
+Estimate; ANCESTRY - Total population - Hungarian
+Percent; ANCESTRY - Total population - Hungarian
+Estimate; ANCESTRY - Total population - Irish
+Percent; ANCESTRY - Total population - Irish
+Estimate; ANCESTRY - Total population - Italian
+Percent; ANCESTRY - Total population - Italian
+Estimate; ANCESTRY - Total population - Lithuanian
+Percent; ANCESTRY - Total population - Lithuanian
+Estimate; ANCESTRY - Total population - Norwegian
+Percent; ANCESTRY - Total population - Norwegian
+Estimate; ANCESTRY - Total population - Polish
+Percent; ANCESTRY - Total population - Polish
+Estimate; ANCESTRY - Total population - Portuguese
+Percent; ANCESTRY - Total population - Portuguese
+Estimate; ANCESTRY - Total population - Russian
+Percent; ANCESTRY - Total population - Russian
+Estimate; ANCESTRY - Total population - Scotch-Irish
+Percent; ANCESTRY - Total population - Scotch-Irish
+Estimate; ANCESTRY - Total population - Scottish
+Percent; ANCESTRY - Total population - Scottish
+Estimate; ANCESTRY - Total population - Slovak
+Percent; ANCESTRY - Total population - Slovak
+Estimate; ANCESTRY - Total population - Subsaharan African
+Percent; ANCESTRY - Total population - Subsaharan African
+Estimate; ANCESTRY - Total population - Swedish
+Percent; ANCESTRY - Total population - Swedish
+Estimate; ANCESTRY - Total population - Swiss
+Percent; ANCESTRY - Total population - Swiss
+Estimate; ANCESTRY - Total population - Ukrainian
+Percent; ANCESTRY - Total population - Ukrainian
+Estimate; ANCESTRY - Total population - Welsh
+Percent; ANCESTRY - Total population - Welsh
+Estimate; ANCESTRY - Total population - West Indian (excluding Hispanic origin groups)
+Percent; ANCESTRY - Total population - West Indian (excluding Hispanic origin groups)
+Estimate; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+Percent; EMPLOYMENT STATUS - Population 16 years and over - In labor force
+Percent; EMPLOYMENT STATUS - Civilian labor force - Unemployment Rate
+Percent; EMPLOYMENT STATUS - Females 16 years and over - In labor force
+Percent; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- drove alone
+Percent; COMMUTING TO WORK - Workers 16 years and over - Car, truck, or van -- carpooled
+Percent; COMMUTING TO WORK - Workers 16 years and over - Public transportation (excluding taxicab)
+Percent; COMMUTING TO WORK - Workers 16 years and over - Walked
+Percent; COMMUTING TO WORK - Workers 16 years and over - Other means
+Percent; COMMUTING TO WORK - Workers 16 years and over - Worked at home
+Estimate; COMMUTING TO WORK - Mean travel time to work (minutes)
+Estimate; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations
+Percent; OCCUPATION - Civilian employed population 16 years and over - Management, business, science, and arts occupations
+Estimate; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+Percent; OCCUPATION - Civilian employed population 16 years and over - Service occupations
+Estimate; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+Percent; OCCUPATION - Civilian employed population 16 years and over - Sales and office occupations
+Estimate; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations
+Percent; OCCUPATION - Civilian employed population 16 years and over - Natural resources, construction, and maintenance occupations
+Estimate; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations
+Percent; OCCUPATION - Civilian employed population 16 years and over - Production, transportation, and material moving occupations
+Estimate; INDUSTRY - Civilian employed population 16 years and over
+Percent; INDUSTRY - Civilian employed population 16 years and over
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining
+Percent; INDUSTRY - Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Construction
+Percent; INDUSTRY - Civilian employed population 16 years and over - Construction
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+Percent; INDUSTRY - Civilian employed population 16 years and over - Manufacturing
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+Percent; INDUSTRY - Civilian employed population 16 years and over - Wholesale trade
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+Percent; INDUSTRY - Civilian employed population 16 years and over - Retail trade
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities
+Percent; INDUSTRY - Civilian employed population 16 years and over - Transportation and warehousing, and utilities
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Information
+Percent; INDUSTRY - Civilian employed population 16 years and over - Information
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing
+Percent; INDUSTRY - Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services
+Percent; INDUSTRY - Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance
+Percent; INDUSTRY - Civilian employed population 16 years and over - Educational services, and health care and social assistance
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services
+Percent; INDUSTRY - Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration
+Percent; INDUSTRY - Civilian employed population 16 years and over - Other services, except public administration
+Estimate; INDUSTRY - Civilian employed population 16 years and over - Public administration
+Percent; INDUSTRY - Civilian employed population 16 years and over - Public administration
+Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Private wage and salary workers
+Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Government workers
+Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Self-employed in own not incorporated business workers
+Estimate; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+Percent; CLASS OF WORKER - Civilian employed population 16 years and over - Unpaid family workers
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Less than $10,000
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $10,000 to $14,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $15,000 to $24,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $25,000 to $34,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $35,000 to $49,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $50,000 to $74,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $75,000 to $99,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $100,000 to $149,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $150,000 to $199,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - $200,000 or more
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Median household income (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Total households - Mean household income (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With earnings - Mean earnings (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With Social Security - Mean Social Security income (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - With retirement income - Mean retirement income (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Less than $10,000
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $10,000 to $14,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $15,000 to $24,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $25,000 to $34,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $35,000 to $49,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $50,000 to $74,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $75,000 to $99,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $100,000 to $149,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $150,000 to $199,999
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more
+Percent; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - $200,000 or more
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Median family income (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Families - Mean family income (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Median nonfamily income (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Nonfamily households - Mean nonfamily income (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for workers (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for male full-time, year-round workers (dollars)
+Estimate; INCOME AND BENEFITS (IN 2016 INFLATION-ADJUSTED DOLLARS) - Median earnings for female full-time, year-round workers (dollars)
+Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage
+Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With private health insurance
+Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - With health insurance coverage - With public coverage
+Percent; HEALTH INSURANCE COVERAGE - Civilian noninstitutionalized population - No health insurance coverage
+Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families
+Estimate; HOUSING OCCUPANCY - Total housing units - Occupied housing units
+Percent; HOUSING OCCUPANCY - Total housing units - Occupied housing units
+Percent; HOUSING OCCUPANCY - Rental vacancy rate
+Percent; YEAR STRUCTURE BUILT - Total housing units - Built 2014 or later
+Percent; YEAR STRUCTURE BUILT - Total housing units - Built 2010 to 2013
+Percent; YEAR STRUCTURE BUILT - Total housing units - Built 2000 to 2009
+Percent; YEAR STRUCTURE BUILT - Total housing units - Built 1990 to 1999
+Percent; YEAR STRUCTURE BUILT - Total housing units - Built 1980 to 1989
+Percent; YEAR STRUCTURE BUILT - Total housing units - Built 1970 to 1979
+Percent; YEAR STRUCTURE BUILT - Total housing units - Built 1960 to 1969
+Percent; YEAR STRUCTURE BUILT - Total housing units - Built 1950 to 1959
+Percent; YEAR STRUCTURE BUILT - Total housing units - Built 1940 to 1949
+Percent; YEAR STRUCTURE BUILT - Total housing units - Built 1939 or earlier
+Estimate; ROOMS - Total housing units - Median rooms
+Percent; BEDROOMS - Total housing units - No bedroom
+Percent; BEDROOMS - Total housing units - 1 bedroom
+Percent; BEDROOMS - Total housing units - 2 bedrooms
+Percent; BEDROOMS - Total housing units - 3 bedrooms
+Percent; BEDROOMS - Total housing units - 4 bedrooms
+Percent; BEDROOMS - Total housing units - 5 or more bedrooms
+Percent; HOUSING TENURE - Occupied housing units - Owner-occupied
+Percent; HOUSING TENURE - Occupied housing units - Renter-occupied
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2015 or later
+Percent; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2015 or later
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2010 to 2014
+Percent; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2010 to 2014
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2000 to 2009
+Percent; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 2000 to 2009
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1990 to 1999
+Percent; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1990 to 1999
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1980 to 1989
+Percent; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1980 to 1989
+Estimate; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1979 and earlier
+Percent; YEAR HOUSEHOLDER MOVED INTO UNIT - Occupied housing units - Moved in 1979 and earlier
+Estimate; VEHICLES AVAILABLE - Occupied housing units - No vehicles available
+Percent; VEHICLES AVAILABLE - Occupied housing units - No vehicles available
+Estimate; VEHICLES AVAILABLE - Occupied housing units - 1 vehicle available
+Percent; VEHICLES AVAILABLE - Occupied housing units - 1 vehicle available
+Estimate; VEHICLES AVAILABLE - Occupied housing units - 2 vehicles available
+Percent; VEHICLES AVAILABLE - Occupied housing units - 2 vehicles available
+Estimate; VEHICLES AVAILABLE - Occupied housing units - 3 or more vehicles available
+Percent; VEHICLES AVAILABLE - Occupied housing units - 3 or more vehicles available
+Estimate; VALUE - Owner-occupied units - Less than $50,000
+Percent; VALUE - Owner-occupied units - Less than $50,000
+Estimate; VALUE - Owner-occupied units - $50,000 to $99,999
+Percent; VALUE - Owner-occupied units - $50,000 to $99,999
+Estimate; VALUE - Owner-occupied units - $100,000 to $149,999
+Percent; VALUE - Owner-occupied units - $100,000 to $149,999
+Estimate; VALUE - Owner-occupied units - $150,000 to $199,999
+Percent; VALUE - Owner-occupied units - $150,000 to $199,999
+Estimate; VALUE - Owner-occupied units - $200,000 to $299,999
+Percent; VALUE - Owner-occupied units - $200,000 to $299,999
+Estimate; VALUE - Owner-occupied units - $300,000 to $499,999
+Percent; VALUE - Owner-occupied units - $300,000 to $499,999
+Estimate; VALUE - Owner-occupied units - $500,000 to $999,999
+Percent; VALUE - Owner-occupied units - $500,000 to $999,999
+Estimate; VALUE - Owner-occupied units - $1,000,000 or more
+Percent; VALUE - Owner-occupied units - $1,000,000 or more
+Estimate; VALUE - Owner-occupied units - Median (dollars)
+Estimate; MORTGAGE STATUS - Owner-occupied units - Housing units with a mortgage
+Percent; MORTGAGE STATUS - Owner-occupied units - Housing units with a mortgage
+Estimate; MORTGAGE STATUS - Owner-occupied units - Housing units without a mortgage
+Percent; MORTGAGE STATUS - Owner-occupied units - Housing units without a mortgage
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units with a mortgage - Median (dollars)
+Estimate; SELECTED MONTHLY OWNER COSTS (SMOC) - Housing units without a mortgage - Median (dollars)
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - Less than 20.0 percent
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - Less than 20.0 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 20.0 to 24.9 percent
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 20.0 to 24.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 25.0 to 29.9 percent
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 25.0 to 29.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 30.0 to 34.9 percent
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 30.0 to 34.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 35.0 percent or more
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) - 35.0 percent or more
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - Less than 10.0 percent
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - Less than 10.0 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 10.0 to 14.9 percent
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 10.0 to 14.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 15.0 to 19.9 percent
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 15.0 to 19.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 20.0 to 24.9 percent
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 20.0 to 24.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 25.0 to 29.9 percent
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 25.0 to 29.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 30.0 to 34.9 percent
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 30.0 to 34.9 percent
+Estimate; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 35.0 percent or more
+Percent; SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) - Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) - 35.0 percent or more
+Percent; GROSS RENT - Occupied units paying rent - Less than $500
+Percent; GROSS RENT - Occupied units paying rent - $500 to $999
+Percent; GROSS RENT - Occupied units paying rent - $1,000 to $1,499
+Percent; GROSS RENT - Occupied units paying rent - $1,500 to $1,999
+Percent; GROSS RENT - Occupied units paying rent - $2,000 to $2,499
+Percent; GROSS RENT - Occupied units paying rent - $2,500 to $2,999
+Percent; GROSS RENT - Occupied units paying rent - $3,000 or more
+Estimate; GROSS RENT - Occupied units paying rent - Median (dollars)
+Percent; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - Less than 15.0 percent
+Percent; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 15.0 to 19.9 percent
+Percent; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 20.0 to 24.9 percent
+Percent; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 25.0 to 29.9 percent
+Percent; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 30.0 to 34.9 percent
+Percent; GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) - Occupied units paying rent (excluding units where GRAPI cannot be computed) - 35.0 percent or more
+Estimate; SEX AND AGE - Total population
+Estimate; SEX AND AGE - Total population - Male
+Percent; SEX AND AGE - Total population - Male
+Estimate; SEX AND AGE - Total population - Female
+Percent; SEX AND AGE - Total population - Female
+Estimate; SEX AND AGE - Under 5 years
+Percent; SEX AND AGE - Under 5 years
+Estimate; SEX AND AGE - 5 to 9 years
+Percent; SEX AND AGE - 5 to 9 years
+Estimate; SEX AND AGE - 10 to 14 years
+Percent; SEX AND AGE - 10 to 14 years
+Estimate; SEX AND AGE - 15 to 19 years
+Percent; SEX AND AGE - 15 to 19 years
+Estimate; SEX AND AGE - 20 to 24 years
+Percent; SEX AND AGE - 20 to 24 years
+Estimate; SEX AND AGE - 25 to 34 years
+Percent; SEX AND AGE - 25 to 34 years
+Estimate; SEX AND AGE - 35 to 44 years
+Percent; SEX AND AGE - 35 to 44 years
+Estimate; SEX AND AGE - 45 to 54 years
+Percent; SEX AND AGE - 45 to 54 years
+Estimate; SEX AND AGE - 55 to 59 years
+Percent; SEX AND AGE - 55 to 59 years
+Estimate; SEX AND AGE - 60 to 64 years
+Percent; SEX AND AGE - 60 to 64 years
+Estimate; SEX AND AGE - 65 to 74 years
+Percent; SEX AND AGE - 65 to 74 years
+Estimate; SEX AND AGE - 75 to 84 years
+Percent; SEX AND AGE - 75 to 84 years
+Estimate; SEX AND AGE - 85 years and over
+Percent; SEX AND AGE - 85 years and over
+Estimate; SEX AND AGE - Median age (years)
+Estimate; SEX AND AGE - 18 years and over
+Percent; SEX AND AGE - 18 years and over
+Estimate; SEX AND AGE - 21 years and over
+Percent; SEX AND AGE - 21 years and over
+Estimate; SEX AND AGE - 62 years and over
+Percent; SEX AND AGE - 62 years and over
+Estimate; SEX AND AGE - 65 years and over
+Percent; SEX AND AGE - 65 years and over
+Estimate; SEX AND AGE - 18 years and over - Male
+Percent; SEX AND AGE - 18 years and over - Male
+Estimate; SEX AND AGE - 18 years and over - Female
+Percent; SEX AND AGE - 18 years and over - Female
+Estimate; SEX AND AGE - 65 years and over - Male
+Percent; SEX AND AGE - 65 years and over - Male
+Estimate; SEX AND AGE - 65 years and over - Female
+Percent; SEX AND AGE - 65 years and over - Female
